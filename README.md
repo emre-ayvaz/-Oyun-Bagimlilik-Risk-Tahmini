@@ -188,18 +188,11 @@ oyun-bagimliligi-risk-tahmini/
 ## Kullanılan Teknolojiler
 
 - Python
-- Jupyter Notebook
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Jupyter Notebook ve Google Colab
+- Pandas ve NumPy
+- Matplotlib ve Seaborn
 - Scikit-learn
-- Imbalanced-learn
-- SciPy
 - Streamlit
-- Gradio
-- Joblib
 
 ## Kurulum
 
