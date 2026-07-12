@@ -3,7 +3,11 @@
 Bu proje, bireylerin dijital oyun kullanım alışkanlıkları ile psikolojik, sosyal ve davranışsal özelliklerini analiz ederek **oyun bağımlılığı risk seviyesini makine öğrenmesi yöntemleriyle tahmin etmek** amacıyla geliştirilmiştir.
 
 Proje kapsamında veri analizi, veri ön işleme, makine öğrenmesi modellerinin karşılaştırılması, istatistiksel testler ve Streamlit tabanlı web uygulaması geliştirme aşamaları gerçekleştirilmiştir.
+## Canlı Uygulama
 
+Uygulamayı çevrim içi olarak incelemek için:
+
+[Streamlit Uygulamasını Aç](https://5bm93d4peycp6kx8jbsn3m.streamlit.app/)
 ## Risk Seviyeleri
 
 Uygulama, kullanıcıları aşağıdaki dört risk sınıfından biriyle sınıflandırmaktadır:
